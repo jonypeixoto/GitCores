@@ -76,7 +76,7 @@ Study sources:
 
 <br/>
 
-- [FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/#:~:text=Git%20is%20a%20version%20control,folders%20easily%20on%20its %20platform.)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/introduction-to-git-and-github/#:~:text=Git%20is%20a%20version%20control,folders%20easily%20on%20its%20platform.)
 
 <br/>
 <br/>
@@ -196,7 +196,7 @@ git status
 
 </br>
 
-[More about showing hidden Windows folders - official Microsoft website](https://support.microsoft.com/en-us/windows/show-hidden-folders-and-files-in-windows-97fbc472-c603- 9d90-91d0-1166d1d9f4b5)
+[More about showing hidden Windows folders - official Microsoft website](https://support.microsoft.com/en-us/windows/show-hidden-folders-and-files-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5)
 
 <br/>
 
@@ -329,7 +329,7 @@ git commit -m YOUR NAME PROJECT
 18.1) Create (generate) your github key so you can connect to Git
 <br/>
 
-To do this, just enter: github key on Google or your search engine and see it on the [official GitHub documentation website](https://docs.github.com/en/authentication/connecting-to-github-with- ssh)
+To do this, just enter: github key on Google or your search engine and see it on the [official GitHub documentation website](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 <br/>
 
