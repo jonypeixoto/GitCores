@@ -108,7 +108,7 @@ https://localhost/phpmyadmin
 
 You need to understand the mechanisms that trigger each tool below:
 
-<br/>
+<br/><br/>
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
