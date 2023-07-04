@@ -78,6 +78,7 @@ You should know about these technologies:
 In this project, follow the commands on prompt command: 
 
 <br/>
+<br/>
 
 1- Download and install the local server [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
@@ -95,7 +96,7 @@ https://localhost/phpmyadmin
 
 <br/>
 
-3- Go to your BACKUP.PHP project and enjoy!
+3- Go to your BACKUP.PHP project and enjoy the code!
 
 <br/>
 
@@ -103,7 +104,11 @@ https://localhost/phpmyadmin
 
 ## :rocket: Technologies
 
+<br/>
+
 You need to understand the mechanisms that trigger each tool below:
+
+<br/>
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/cssref/)
@@ -117,7 +122,7 @@ You need to understand the mechanisms that trigger each tool below:
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 
-<br/><br/>
+<br/><br/><br/>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/jonypeixoto/full-stack-web2-projects/blob/main/LICENSE) for more information.
